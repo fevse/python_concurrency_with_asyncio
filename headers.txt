@@ -1,0 +1,13 @@
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 351763
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 04 Apr 2023 10:39:56 GMT
+Etag: "3147526947+gzip"
+Expires: Tue, 11 Apr 2023 10:39:56 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (nyb/1DCD)
+Vary: Accept-Encoding
+X-Cache: HIT
+Content-Length: 648
